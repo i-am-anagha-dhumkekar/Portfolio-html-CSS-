@@ -1,0 +1,61 @@
+.container
+{
+    position: relative;
+    top:20px;
+    bottom: 20px;
+    width: 30%;
+    background-color:black;
+    margin: auto;
+    border:solid 6px #97edbb;
+    padding:20px;
+    border-radius: 10px;
+    text-align: center;
+    color:white;
+}
+.heading
+{
+    color:white;
+}
+.form
+{
+    box-sizing:border-box;
+    margin:15px;
+    display:block;
+}
+.button
+{
+    background-color: #97edbb;
+    color:black;
+    border:solid 2px black;
+    border-radius: 10px;
+    padding:10px 30px 10px 30px;
+}
+.main>input
+{
+    width: 100%;
+    padding: 10px;
+}
+.main
+{
+    margin:10px;
+}
+.main>label{
+    display:block;
+    text-align: left;
+}
+.last
+{
+    display:flex;
+}
+.ele
+{
+    float:left;
+}
+.link
+{
+    margin-left: 50%;
+}
+a{
+    text-decoration: none;
+    color:#97edbb;
+}
